@@ -13,7 +13,7 @@ DOI: 10.1109/CIVEMSA53371.2022.9853690
 
 # Data Set
 
-The linked data set is available in the DaRUS Open Data Platform at this link:  XXXXX 
+The linked data set is available in the DaRUS Open Data Platform at this link:  https://darus.uni-stuttgart.de/dataset.xhtml?persistentId=doi:10.18419/darus-2824
 
 ## Citing the Paper and Application
 
